@@ -1,0 +1,45 @@
+[
+  {
+    "id": "bkash",
+    "name": "bKash Mobile",
+    "type": "wallet",
+    "logo": "https://images.unsplash.com/photo-1598257006458-087169a1f08d?w=100&auto=format&fit=crop&q=80",
+    "instructions": "Transfer to our bKash merchant wallet account. Make a Send Money or Cash Out transaction of the total amount, then copy-paste the Transaction ID from the SMS.",
+    "accountNumber": "+880 1799 482910",
+    "feePercentage": 1.5
+  },
+  {
+    "id": "nagad",
+    "name": "Nagad Wallet",
+    "type": "wallet",
+    "logo": "https://images.unsplash.com/photo-1563013544-824ae1d704d3?w=100&auto=format&fit=crop&q=80",
+    "instructions": "Transfer money to our Nagad wallet. Make a Send Money of the exact total amount, then input your sender mobile account number and the transaction reference.",
+    "accountNumber": "+880 1928 382948",
+    "feePercentage": 1
+  },
+  {
+    "id": "bank_of_ceylon",
+    "name": "Local Bank Transfer",
+    "type": "bank",
+    "logo": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?w=100&auto=format&fit=crop&q=80",
+    "instructions": "Please make a direct online wire or bank deposit to our Bank account. Verification takes about 5 minutes. Enter the reference number from your bank app.",
+    "accountNumber": "8492048209210-A",
+    "accountName": "Sehan Topup Retail Ltd.",
+    "feePercentage": 0
+  },
+  {
+    "id": "visa_mastercard",
+    "name": "Visa / Mastercard Secure",
+    "type": "card",
+    "logo": "https://images.unsplash.com/photo-1589758438368-0ad531db3366?w=100&auto=format&fit=crop&q=80",
+    "feePercentage": 2
+  },
+  {
+    "id": "qr_instant",
+    "name": "QR Scan & Pay",
+    "type": "qr",
+    "logo": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?w=100&auto=format&fit=crop&q=80",
+    "instructions": "Scan the QR below with any mobile wallet app to send the total payment, then input the reference number.",
+    "feePercentage": 0.5
+  }
+]

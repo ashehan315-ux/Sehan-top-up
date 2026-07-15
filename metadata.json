@@ -1,0 +1,6 @@
+{
+  "name": "Sehan Topup",
+  "description": "Premium game top-up website featuring popular game credits, a secure simulation payment gateway, and real-time transaction tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
